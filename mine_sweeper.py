@@ -1,7 +1,5 @@
 from tkinter import *
-from tkinter import Button
 import random
-from tkinter import Label
 import ctypes
 import sys
 
