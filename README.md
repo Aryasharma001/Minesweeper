@@ -1,5 +1,5 @@
 <h1>Minesweeper Game</h1>
-Languages used : Python
+Languages used : Python 3 <br>
 Libraries used: tkinter,sys and ctypes
 
 <img src="https://www.easypromosapp.com/blog/en/wp-content/uploads/Minesweeper-screenshot-1.png " >
